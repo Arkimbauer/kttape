@@ -30,7 +30,7 @@ function ChangeLog() {
                 <li>Implemented register User with logic modals and feedback</li>
                 <li>Added feedback after register user with data of new user</li>
                 <li>Added filter, admins can't register admins, just regulars</li>
-                <li>Api logic create new user aded throw error / not available for now creating a new admin account</li>
+                <li>Api logic create new user added throw error / not available for now creating a new admin account</li>
               </ul>
               <ul>
                 <li>Added new component "RetrieveAllUsers"</li>
@@ -41,7 +41,7 @@ function ChangeLog() {
             <ul>
               <ul>
                 <li>Added accountant to current orders menu, with the total of articles inside.</li>
-                <li>If cart length = 0 you will be redirectioned to home</li>
+                <li>If cart length = 0 you will be redirected to home</li>
               </ul>
             </ul>
             <ul>
